@@ -1,5 +1,8 @@
-public class one {
-  public static void main(String[] args){
-    System.out.print("hello");
-  }
+// Java Program to demonstrate the
+// syntax of the main() function
+class one {
+    public static void main(String[] args)
+    {
+        System.out.println("I am a Geek");
+    }
 }
